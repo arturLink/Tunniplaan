@@ -61,3 +61,5 @@ p25=Button(text="Suhtlemine ja kliienditeenindus", font="Calibri 26",bg="mediums
 p26=Button(text="Ajalugu", font="Calibri 26",bg="khaki").grid(row=9,column=10,rowspan=2,sticky=N+S+W+E)
 
 aken.mainloop()
+
+#Iljaloh)
